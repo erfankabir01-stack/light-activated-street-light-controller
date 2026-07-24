@@ -21,10 +21,10 @@ A light-sensing street light controller built and simulated in **Proteus 8**, us
 
 ## Contents of this repo
 
-- `simulation/` — Proteus project file
-- `report/` — full IEEE-format project report
-- `images/` — circuit screenshots from simulation
 
+- `EEE234 Project Sim.pdsprj` — Proteus simulation file
+- `EEE234_Project_Report.docx` — full IEEE-format project report
+- `Screenshot 2026-07-14 164448.png`, `Screenshot 2026-07-15 212953.png` — circuit screenshots from simulation
 
 ## Background
 
