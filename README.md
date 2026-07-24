@@ -2,7 +2,7 @@
 LM358 + LDR based street light controller with ATmega328P fault detection, simulated in Proteus 8
 # Light-Activated Street Light Controller
 
-# Light-Activated Street Light Controller
+
 
 A light-sensing street light controller built and simulated in **Proteus 8**, using an **LM358 op-amp** as a comparator with an **LDR (Light Dependent Resistor)** as the sensing element. Extended with an **ATmega328P**-based fault detection subsystem that monitors the whole circuit — lamp, indicator LEDs, and the sensor itself — for faults in real time.
 
